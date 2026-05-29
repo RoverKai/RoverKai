@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![RoverKai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roverkai)
 <!--
 **RoverKai/RoverKai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
