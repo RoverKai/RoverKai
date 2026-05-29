@@ -20,16 +20,17 @@
 ---
 
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoverKai&theme=tokyonight" alt="streak stats" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RoverKai/RoverKai/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoverKai&theme=tokyonight" alt="streak stats" />
 </p>
 
 ---
