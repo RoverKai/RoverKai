@@ -21,8 +21,6 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoverKai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoverKai&layout=compact&langs_count=8&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RoverKai&theme=tokyonight" alt="streak stats" />
 </p>
 
