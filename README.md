@@ -19,9 +19,6 @@
 
 ---
 
-
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/RoverKai/RoverKai/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
